@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "81b9478bf1f890ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ab6a0bc627b4638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d91d0933faa15f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Comunicaciones de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comunicaciones de datos"
+            }
+          },
+          {
+            "id": "3fb864713c730043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Redes de transmisión de datos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redes de transmisión de datos"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac214a6b9ed4fd00",
+    "type": "split",
+    "children": [
+      {
+        "id": "4374c3d2c687cd8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1bc812e7c100f41",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "da93e75313431b7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "44bc7a4809334c8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 248.50260543823242
+  },
+  "right": {
+    "id": "aba6dcd4b52eca8f",
+    "type": "split",
+    "children": [
+      {
+        "id": "609db000b0fe08aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05b33fb83885d67c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sin título.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sin título"
+            }
+          },
+          {
+            "id": "becc5c8c2da17f12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sin título.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sin título"
+            }
+          },
+          {
+            "id": "39d337ee00618dd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ca08553d5a018418",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "c6b59644a0230c6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sin título.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sin título"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "3fb864713c730043",
+  "lastOpenFiles": [
+    "Unidad 1/Intro redes y comunicaciones.md",
+    "Unidad 1/Redes de transmisión de datos.md",
+    "Unidad 1/Arquitectura de protocolos/Modelos en capas/Modelo tres capas.md",
+    "Unidad 1/Arquitectura de protocolos/Fundamentos de arquitectura de protocolos.md",
+    "Unidad 1/Comunicaciones de datos.md",
+    "Unidad 1/Arquitectura de protocolos/Modelos en capas/Modelo ISO OSI.md",
+    "Unidad 1/Arquitectura de protocolos/Modelos en capas",
+    "assets/unidades-datos-de-los-protocolos.png",
+    "Pasted image 20260401031119.png",
+    "assets/protocolo-tres-capas.png",
+    "arquitectura-simplificada-transferencia-archivos.png",
+    "Unidad 1/Arquitectura de protocolos/a.md",
+    "Sin nombre",
+    "Unidad 1/Arquitectura de protocolos/TCP -o- IP.md",
+    "Unidad 1/Arquitectura de protocolos/Modelo OSI.md",
+    "Unidad 1/Arquitectura de protocolos/Conceptos de protocolos.md",
+    "Unidad 1/Arquitectura de protocolos",
+    "assets/ejemplo-comunicacion.png",
+    "assets/modelo-comunicaciones-de-datos.png",
+    "Data profe.md",
+    "assets/tareas-en-sistemas-de-comunicacion.png",
+    "assets/diagrama-general-bloques.png",
+    "assets",
+    "Unidad 1/labs/Laboratorio 1 - 20.03.2026.md",
+    "Unidad 1/labs",
+    "Sin título 4.md",
+    "Sin título 3.md",
+    "Sin título 2.md",
+    "Sin título 1.md",
+    "Bienvenido.md",
+    "Unidad 1"
+  ]
+}

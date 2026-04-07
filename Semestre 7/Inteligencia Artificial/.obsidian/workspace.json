@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "d8874d8882ef43d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "1201e1f9aafb17d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6aa15121a1d16a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Algoritmo evolutivo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Algoritmo evolutivo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6562aaf57e280e06",
+    "type": "split",
+    "children": [
+      {
+        "id": "daee9b80ac0e628b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21f7950e16195929",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "549c7cc9cc6acfd5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "85a4610f4ca6d4e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5086555480957
+  },
+  "right": {
+    "id": "0fafb482156b5b7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "370a8dca4abee40f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f3e47e48290358f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Unidad 1/Introducción a las metaheurísticas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Introducción a las metaheurísticas"
+            }
+          },
+          {
+            "id": "03c218a9bf5c319d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gestión Organizacional/Unidad1/Topico 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Topico 1"
+            }
+          },
+          {
+            "id": "beae2620c7739d32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "ba9937fb36acb4b8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "7d3eacd58469c7b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Unidad 1/Introducción a las metaheurísticas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Introducción a las metaheurísticas"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "d6aa15121a1d16a4",
+  "lastOpenFiles": [
+    "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Modelo Evolutivo.md",
+    "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Algoritmo evolutivo.md",
+    "Unidad 1/Introducción a las metaheurísticas.md",
+    "Unidad 1/Pruebass/2024 s1.md",
+    "Unidad 1/Pruebass/2025 s1.md",
+    "Unidad 1/Pruebass/2022 s1.md",
+    "Unidad 1/Metaheurísticas/Particle Swarm Optimization (PSO).md",
+    "Unidad 1/Pruebass/2020 s1.md",
+    "Unidad 1/Pruebass",
+    "Pasted image 20260329135300.png",
+    "graficos_convergencia_AE.html",
+    "Unidad 3",
+    "Unidad 2",
+    "Sin título 1.canvas",
+    "assets",
+    "Sin título.canvas",
+    "assets/paralelo_naturaleza_computacion.svg",
+    "assets/ciclo_algoritmo_evolutivo.svg",
+    "assets/Pasted image 20260328194534.png",
+    "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Operadores evolutivos.md",
+    "Unidad 1/Metaheurísticas/Algoritmos evolutivos.md",
+    "Pages.md",
+    "Unidad 1/Metaheurísticas/Algoritmos evolutivos",
+    "Unidad 1/Metaheurísticas/Population based/Modelo evolutivo/El modelo evolutivo.md",
+    "Unidad 1/Metaheurísticas/Population based/Modelo evolutivo",
+    "Unidad 1/Metaheurísticas/Population based/Swarm Intelligence",
+    "Unidad 1/Metaheurísticas/Population based",
+    "Unidad 1/Metaheurísticas",
+    "assets/Rastrigin.png",
+    "Interacción humano-computador/Unidad 1/What is GHCI.md",
+    "Gestión Organizacional/Unidad1/Topico 1.md",
+    "Inteligencia Artesanal/Unidad 1/test.md",
+    "Pasted image 20260313110256.png",
+    "Pasted image 20260312105113.png",
+    "Pasted image 20260312105110.png",
+    "Pasted image 20260312105115.png",
+    "Sin título 1.md",
+    "wena choro.md",
+    "bruh.md"
+  ]
+}
