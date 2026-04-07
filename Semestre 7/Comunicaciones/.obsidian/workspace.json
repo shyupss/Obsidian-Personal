@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 1/Redes de transmisión de datos.md",
+                "file": "Unidad 1/Comunicaciones de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redes de transmisión de datos"
+              "title": "Comunicaciones de datos"
             }
           }
         ],
@@ -200,8 +200,8 @@
   },
   "active": "3fb864713c730043",
   "lastOpenFiles": [
-    "Unidad 1/Intro redes y comunicaciones.md",
     "Unidad 1/Redes de transmisión de datos.md",
+    "Unidad 1/Intro redes y comunicaciones.md",
     "Unidad 1/Arquitectura de protocolos/Modelos en capas/Modelo tres capas.md",
     "Unidad 1/Arquitectura de protocolos/Fundamentos de arquitectura de protocolos.md",
     "Unidad 1/Comunicaciones de datos.md",
