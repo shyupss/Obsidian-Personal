@@ -53,4 +53,4 @@ Con lo dicho, se puede decir que un sistema se compone de: Requisitos, arquitect
 ---
 # Analogía con construcción
 
-Para un proyecto pequeño tanto en construcción como en 
+Para un proyecto pequeño tanto en construcción como en locura
