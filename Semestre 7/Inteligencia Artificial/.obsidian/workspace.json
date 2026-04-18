@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Algoritmo evolutivo.md",
+                "file": "Unidad 2/Aprendizaje no supervisado/Métodos/Análisis de agrupamientos (clustering).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algoritmo evolutivo"
+              "title": "Análisis de agrupamientos (clustering)"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5086555480957
+    "width": 359.51103591918945
   },
   "right": {
     "id": "0fafb482156b5b7d",
@@ -186,8 +186,21 @@
   },
   "active": "d6aa15121a1d16a4",
   "lastOpenFiles": [
-    "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Modelo Evolutivo.md",
+    "Unidad 2/Aprendizaje no supervisado/Métodos/Análisis de componentes principales (PCA).md",
+    "Unidad 2/Aprendizaje no supervisado/Métodos/Análisis de agrupamientos (clustering).md",
+    "assets/kmeans_flowchart_simple.svg",
+    "Unidad 2/Introducción a machine learning.md",
+    "kmeans_flowchart_completo.svg",
+    "Unidad 2/Aprendizaje no supervisado/Introducción al aprendizaje no supervisado.md",
+    "Unidad 2/Aprendizaje no supervisado/Métodos",
+    "assets/variacion-pdimencional.png",
+    "assets/PCA-con-p7.png",
+    "Unidad 2/Aprendizaje por reforzamiento",
+    "Unidad 2/Aprendizaje no supervisado",
+    "Unidad 2/Aprendizaje supervisado",
+    "Unidad 2/Aprendizaje supervisado",
     "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Algoritmo evolutivo.md",
+    "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Modelo Evolutivo.md",
     "Unidad 1/Introducción a las metaheurísticas.md",
     "Unidad 1/Pruebass/2024 s1.md",
     "Unidad 1/Pruebass/2025 s1.md",
@@ -208,20 +221,12 @@
     "Unidad 1/Metaheurísticas/Algoritmos evolutivos/Operadores evolutivos.md",
     "Unidad 1/Metaheurísticas/Algoritmos evolutivos.md",
     "Pages.md",
-    "Unidad 1/Metaheurísticas/Algoritmos evolutivos",
     "Unidad 1/Metaheurísticas/Population based/Modelo evolutivo/El modelo evolutivo.md",
-    "Unidad 1/Metaheurísticas/Population based/Modelo evolutivo",
-    "Unidad 1/Metaheurísticas/Population based/Swarm Intelligence",
-    "Unidad 1/Metaheurísticas/Population based",
-    "Unidad 1/Metaheurísticas",
     "assets/Rastrigin.png",
     "Interacción humano-computador/Unidad 1/What is GHCI.md",
     "Gestión Organizacional/Unidad1/Topico 1.md",
     "Inteligencia Artesanal/Unidad 1/test.md",
     "Pasted image 20260313110256.png",
-    "Pasted image 20260312105113.png",
-    "Pasted image 20260312105110.png",
-    "Pasted image 20260312105115.png",
     "Sin título 1.md",
     "wena choro.md",
     "bruh.md"

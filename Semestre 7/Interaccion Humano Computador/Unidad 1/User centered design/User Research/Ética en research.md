@@ -1,0 +1,3 @@
+- *Formalizar el **consentimiento** de los participantes.*
+- ***Transparencia** en la recopilación de datos y análisis.*
+- *Garantizar la **privacidad** y una interpretación imparcial.*

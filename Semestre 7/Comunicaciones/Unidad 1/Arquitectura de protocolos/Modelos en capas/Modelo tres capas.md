@@ -1,5 +1,4 @@
-z## Modelo de tres capas
-En términos muy generales, se puede afirmar que las comunicaciones involucran a tres agentes: aplicaciones, computadores y redes. Las aplicaciones se ejecutan en computadores que, generalmente, permiten múltiples aplicaciones simultáneas. Los computadores se conectan a redes y los datos a intercambiar se transfieren por la red de un computador a otro.
+En términos muy generales, se puede afirmar que las comunicaciones involucran a tres agentes: ***aplicaciones, computadores y redes.*** Las aplicaciones se ejecutan en computadores que, generalmente, permiten múltiples aplicaciones simultáneas. Los computadores se conectan a redes y los datos a intercambiar se transfieren por la red de un computador a otro.
 
 Por tanto, la transferencia de datos desde una aplicación a otra implica, en primer lugar, la obtención de los mismos y, posteriormente, hacerlos llegar a la aplicación destino en el computador remoto.
 
