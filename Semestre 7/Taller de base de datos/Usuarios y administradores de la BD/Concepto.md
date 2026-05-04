@@ -1,0 +1,1 @@
+Las **personas que trabajan con una base de datos** se pueden ***catalogar*** como **usuarios** de bases de datos o como **administradores** de bases de datos.

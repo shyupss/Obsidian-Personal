@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 2/Laboratorio 2 - 17.04.2026.md",
+                "file": "Transmisión de datos/Conceptos y terminología.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laboratorio 2 - 17.04.2026"
+              "title": "Conceptos y terminología"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.50260543823242
+    "width": 329.51103591918945
   },
   "right": {
     "id": "aba6dcd4b52eca8f",
@@ -185,38 +185,44 @@
   },
   "active": "3fb864713c730043",
   "lastOpenFiles": [
-    "Unidad 1/Arquitectura de protocolos/Modelos en capas/Modelo ISO OSI.md",
-    "Unidad 2/Laboratorio 2 - 17.04.2026.md",
-    "Data profe.md",
-    "Unidad 1/Intro redes y comunicaciones.md",
-    "Unidad 1/Comunicaciones de datos.md",
+    "Transmisión de datos/Dificultades en la transmisión.md",
+    "Transmisión de datos/Capacidad del canal.md",
+    "Transmisión de datos/Conceptos y terminología.md",
+    "Transmisión de datos/Transmisión de datos analógicos y digitales.md",
+    "Transmisión de datos/Conceptos y terminología/Sin títuloSin títuloSin títuloSin título.md",
+    "Transmisión de datos/Conceptos y terminología",
+    "Arquitectura de protocolos/Modelos en capas/Modelo ISO OSI.md",
+    "Laboratorio 2 - 17.04.2026.md",
+    "Arquitectura de protocolos/Modelos en capas/Modelo tres capas.md",
+    "Arquitectura de protocolos/Fundamentos de arquitectura de protocolos.md",
+    "Comunicaciones de datos y redes/Redes de transmisión de datos.md",
     "Pasted image 20260417111833.png",
-    "Unidad 1/Arquitectura de protocolos/Fundamentos de arquitectura de protocolos.md",
+    "Data profe.md",
+    "Comunicaciones de datos y redes/Comunicaciones de datos.md",
     "Unidad 1/Laboratorio 1 - 20.03.2026.md",
-    "Unidad 2",
-    "Unidad 1/Arquitectura de protocolos/Modelos en capas/Modelo tres capas.md",
-    "Unidad 1/Redes de transmisión de datos.md",
-    "Unidad 1/Arquitectura de protocolos/Modelos en capas",
-    "assets/unidades-datos-de-los-protocolos.png",
+    "Comunicaciones de datos y redes/Intro redes y comunicaciones.md",
+    "Transmisión de datos",
+    "Arquitectura de protocolos/Modelos en capas",
+    "0assets/unidades-datos-de-los-protocolos.png",
     "Pasted image 20260401031119.png",
-    "assets/protocolo-tres-capas.png",
+    "0assets/protocolo-tres-capas.png",
     "arquitectura-simplificada-transferencia-archivos.png",
     "Unidad 1/Arquitectura de protocolos/a.md",
     "Unidad 1/Arquitectura de protocolos/TCP -o- IP.md",
     "Unidad 1/Arquitectura de protocolos/Modelo OSI.md",
     "Unidad 1/Arquitectura de protocolos/Conceptos de protocolos.md",
-    "Unidad 1/Arquitectura de protocolos",
-    "assets/ejemplo-comunicacion.png",
-    "assets/modelo-comunicaciones-de-datos.png",
-    "assets/tareas-en-sistemas-de-comunicacion.png",
-    "assets/diagrama-general-bloques.png",
-    "assets",
+    "Arquitectura de protocolos",
+    "0assets/ejemplo-comunicacion.png",
+    "0assets/modelo-comunicaciones-de-datos.png",
+    "0assets/tareas-en-sistemas-de-comunicacion.png",
+    "0assets/diagrama-general-bloques.png",
+    "0assets",
     "Unidad 1/labs",
     "Sin título 4.md",
     "Sin título 3.md",
     "Sin título 2.md",
     "Sin título 1.md",
     "Bienvenido.md",
-    "Unidad 1"
+    "Comunicaciones de datos y redes"
   ]
 }
