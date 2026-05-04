@@ -61,13 +61,22 @@ En el vacío, $v$ es igual a la velocidad de la luz $(c≈3×108[m/s])$
 ---
 ## Conceptos en el Dominio de la Frecuencia
 
-**Para cada señal hay una función en el dominio del tiempo** $s(t)$ que determina la amplitud de la señal en cada instante del tiempo. Igualmente, hay una **función $S(f)$, en el dominio de la frecuencia, que especifica las amplitudes de pico de las frecuencias constitutivas de la señal.**
+Para cada señal existe una representación en el dominio del tiempo $s(t)$, que indica su amplitud en cada instante, y una representación en el dominio de la frecuencia $S(f)$, que describe cómo se compone la señal en términos de frecuencias.
 
-En la práctica, las señales no son ondas seno puras, sino que están compuestas por múltiples frecuencias.
+---
+### **Función S(t):**
+La función $S(f)$ representa la señal en el dominio de la frecuencia, indicando qué componentes sinusoidales la constituyen y cuál es la amplitud de cada una de ellas.
+> ***Describe cómo se distribuye la energía de la señal a lo largo de las distintas frecuencias.***
+#### Interpretación del Espectro
+Dependiendo del tipo de señal, $S(f)$ puede tomar distintas formas:
+- **Espectro discreto:** aparece en ***señales periódicas***. La señal está compuesta por un conjunto finito o infinito numerable de frecuencias específicas.  
+- **Espectro continuo:** aparece en ***señales no periódicas.*** La señal **contiene un rango continuo de frecuencias.**
+
+---
 #### **Análisis de Fourier:**
 Demuestra que cualquier señal electromagnética está constituida por una colección de señales analógicas periódicas (ondas seno) con diferentes amplitudes, frecuencias y fases.
 #### **Frecuencia Fundamental:**
-Cuando todas las componentes de frecuencia son múltiplos enteros de una frecuencia base, esta se denomina frecuencia fundamental.
+Cuando todas las componentes de frecuencia son múltiplos enteros de una frecuencia base, a esa  se denomina frecuencia fundamental.
 #### **Espectro:**
 El conjunto de frecuencias que constituyen una señal.
 #### **Ancho de Banda Absoluto:**
