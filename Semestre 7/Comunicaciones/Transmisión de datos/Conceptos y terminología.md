@@ -94,4 +94,3 @@ Existe una relación intrínseca entre la velocidad a la que se envían los dato
 
 Una onda cuadrada puede aproximarse sumando armónicos impares de su frecuencia fundamental f. Cuantos más armónicos se incluyan, más se parecerá la señal resultante a la onda cuadrada original y menor será la distorsión.
 
-seguir...

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmisión de datos/Conceptos y terminología.md",
+                "file": "Transmisión de datos/Capacidad del canal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Conceptos y terminología"
+              "title": "Capacidad del canal"
             }
           }
         ]
@@ -188,6 +188,7 @@
     "Transmisión de datos/Dificultades en la transmisión.md",
     "Transmisión de datos/Capacidad del canal.md",
     "Transmisión de datos/Conceptos y terminología.md",
+    "Transmisión de datos/Transmición de datos analógicos y digitales.md",
     "Transmisión de datos/Transmisión de datos analógicos y digitales.md",
     "Transmisión de datos/Conceptos y terminología/Sin títuloSin títuloSin títuloSin título.md",
     "Transmisión de datos/Conceptos y terminología",
