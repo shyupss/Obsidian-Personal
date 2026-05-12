@@ -47,7 +47,7 @@ Una señal es una función del tiempo que puede ser:
 ### Señales Periódicas y la Onda Seno
 
 Una señal $s(t)$ es periódica si repite un patrón en el tiempo, cumpliendo la condición $s(t+T)=s(t)$ para todo $t$, donde $T$ es el periodo. La señal periódica fundamental es la onda seno, definida por: $$s(t)=Asen(2πft+ϕ)$$Los tres parámetros clave que definen esta señal son:
-##### Amplitud (A):*
+##### Amplitud (A):
 Valor máximo de la señal (generalmente en voltios).
 ##### Frecuencia (f):*
 Rapidez con la que se repite la señal (en Hz, o ciclos por segundo). Se relaciona con el periodo como $T=\frac{1}{f}$.
@@ -56,15 +56,19 @@ Medida de la posición relativa de la señal dentro de un periodo.
 ### Longitud de Onda (λ)
 
 Es la distancia física que ocupa un ciclo de la señal. Se relaciona con la velocidad de propagación $(v)$ y la frecuencia $(f)$ mediante la expresión: $$λ=v⋅T=\frac{v}{f}​$$
-En el vacío, $v$ es igual a la velocidad de la luz $(c≈3×108[m/s])$
+En el vacío, $v$ es igual a la velocidad de la luz $(c≈3×10^8[m/s])$
 
 ---
 ## Conceptos en el Dominio de la Frecuencia
 
 Para cada señal existe una representación en el dominio del tiempo $s(t)$, que indica su amplitud en cada instante, y una representación en el dominio de la frecuencia $S(f)$, que describe cómo se compone la señal en términos de frecuencias.
 
+- **Frecuencia Fundamental:** Es la frecuencia más baja de una señal cuando todas sus componentes son múltiplos enteros de una frecuencia dada. Es el componente "base" que **determina el periodo de la señal total**; es decir, el tiempo que tarda el patrón completo en repetirse es el mismo periodo que el de la frecuencia fundamental.
+
+- **Armónicos (Componentes en frecuencia):** Son las demás ondas sinusoidales que componen la señal y cuyas frecuencias son **múltiplos enteros** de la frecuencia fundamental (por ejemplo, si la fundamental es f, los armónicos serían 2f, 3f, 4f, etc.
+
 ---
-### **Función S(t):**
+### **Función S(f):**
 La función $S(f)$ representa la señal en el dominio de la frecuencia, indicando qué componentes sinusoidales la constituyen y cuál es la amplitud de cada una de ellas.
 > ***Describe cómo se distribuye la energía de la señal a lo largo de las distintas frecuencias.***
 #### Interpretación del Espectro

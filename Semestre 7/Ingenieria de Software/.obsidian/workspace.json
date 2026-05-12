@@ -6,66 +6,19 @@
       {
         "id": "6c9adb15408d8598",
         "type": "tabs",
-        "dimension": 63.77410468319559,
         "children": [
-          {
-            "id": "3c42a5adc56983fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unidad 1/Proceso de software.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Proceso de software"
-            }
-          },
           {
             "id": "79f9f3ff8aab0795",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unidad 1/Aproximaciones ágiles.md",
+                "file": "Refactorización.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aproximaciones ágiles"
-            }
-          },
-          {
-            "id": "727ab29ce9a71ffa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unidad 2/Actividades/penex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "penex"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "2473900f040727bb",
-        "type": "tabs",
-        "dimension": 36.225895316804404,
-        "children": [
-          {
-            "id": "d98140e429c54e42",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
+              "title": "Refactorización"
             }
           }
         ]
@@ -105,7 +58,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               },
               "icon": "lucide-search",
               "title": "Buscar"
@@ -125,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 256.51103591918945
+    "width": 388.5026054382324
   },
   "right": {
     "id": "d4031ff2f8b3fa74",
@@ -230,34 +183,53 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "27484c9c77bd02ed",
+  "active": "79f9f3ff8aab0795",
   "lastOpenFiles": [
+    "Diseño/Principios y Buenas Prácticas.md",
+    "Diseño/Architectural design patterns/Sistemas Distribuidos.md",
+    "Diseño/Architectural design patterns/Microservicios.md",
+    "Diseño/Architectural design patterns/CQRS (Command Query Responsibility Segregation).md",
+    "Diseño/Architectural design patterns/Pipes and Filters (Tubería y Filtro).md",
+    "Diseño/Architectural design patterns/Cliente-Servidor.md",
+    "Diseño/Architectural design patterns/Modelo-vista-controlador (MVC).md",
+    "Diseño/Architectural design patterns/Arquitectura multicapa.md",
+    "Diseño/Introducción a diseño arquitectónico.md",
+    "Modelamiento/Ingeniería Dirigida por Modelo (MDE).md",
+    "Modelamiento/Modelos de comportamiento.md",
+    "Modelamiento/Modelos de contexto.md",
+    "Modelamiento/Modelos de interacción.md",
+    "Modelamiento/Modelos estructurales.md",
+    "El palo de la profe.md",
+    "Modelamiento/Introducción a modelamiento.md",
+    "Calidad de software/Estrategias y Clasificación de Pruebas.md",
+    "Calidad de software/Anatomía de las Pruebas.md",
+    "Calidad de software/Fundamentos y Gestión de Calidad.md",
+    "Refactorización.md",
+    "Sin título.md",
+    "assets/pipes&filters.png",
+    "assets/modelo-vistacontrolador.png",
+    "Diseño/Software design patterns (no estudiados aún)",
+    "Diseño/Architectural design patterns",
+    "assets/design-smells.png",
+    "assets/def.patrondediseño.png",
+    "assets/diagramadeestados.png",
+    "assets/modeladodirigidopordatos.png",
+    "assets/diagramadepaquetes.png",
+    "assets/diagramadecomponentes.png",
+    "assets/diagramadeclase.png",
+    "assets/diagramadesecuencias.png",
+    "Unidad 1/Proceso de software.md",
+    "Unidad 1/Metodologías ágiles/Scrum.md",
+    "Unidad 1/Fundamentos de ingeniería de software.md",
+    "Calidad de software",
     "Unidad 2/Actividades/penex.md",
+    "Diseño",
+    "Modelamiento",
     "Unidad 1/Metodologías ágiles/Lean startup.md",
     "Unidad 2/Actividades",
-    "Data profe.md",
     "Unidad 2",
     "Unidad 1/Sin nombre",
-    "Unidad 1/Metodologías ágiles/Kanban.md",
-    "Unidad 1/Metodologías ágiles/Scrum.md",
-    "Unidad 1/Metodologías ágiles/Extreme programming (XP).md",
-    "Unidad 1/Proceso de software.md",
-    "Unidad 1/Evolución del proceso.md",
-    "Unidad 1/Escalamiento ágil.md",
-    "Unidad 1/Aproximaciones ágiles.md",
-    "assets/kanban-board.png",
-    "assets/kanban.png",
-    "assets/scrum.png",
     "Unidad 1/Metodologías ágiles",
-    "assets/XP.png",
-    "assets/manifiesto-agil.png",
-    "Pasted image 20260407035432.png",
-    "Unidad 1/Fundamentos de ingeniería de software.md",
-    "assets/descomposicion-jerarquica.png",
-    "assets/evolucion-de-un-sistema.png",
-    "Pasted image 20260407004806.png",
-    "assets/actividades-software.png",
-    "assets",
-    "Unidad 1"
+    "assets"
   ]
 }

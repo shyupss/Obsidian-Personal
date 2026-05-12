@@ -36,7 +36,7 @@ Donde $M$ es el número de señales discretas o niveles de tensión.
 **Limitación:**
 >Aumentar M complica la tarea del receptor, ya que debe distinguir entre niveles más próximos en presencia de ruido.
 
-*Entonces, se envía **más información (bits) en menos tiempo (pulsos)** **usando diferentes niveles de energía **, lo que permite que la velocidad de transmisión sea mayor para un mismo ancho de banda.*
+*Entonces, se envía **más información (bits) en menos tiempo (pulsos)** **usando diferentes niveles de energía, lo que permite que la velocidad de transmisión sea mayor para un mismo ancho de banda.*
 
 ---
 # Fórmula para la Capacidad de Shannon

@@ -65,8 +65,8 @@ Tanto las señales analógicas como las digitales se pueden transmitir si se emp
 #### **Transmisión Digital:**
 > Es dependiente del contenido. Para superar la atenuación, utiliza **repetidores**. El repetidor recibe la señal degradada, recupera el patrón original de unos y ceros (lo regenera) y retransmite una señal limpia. Esto evita la acumulación de ruido.
 
-***Si una señal analógica transporta datos digitales, se utilizan **repetidores** en lugar de amplificadores para evitar que el ruido se acumule.*
-## Ventajas de la Transformación Digital
+***Si una señal analógica transporta datos digitales, se utilizan repetidores** en lugar de amplificadores para evitar que el ruido se acumule.*
+## Ventajas de la Transmisión Digital
 
 La industria se ha decantado por la transmisión digital por cinco razones fundamentales:
 

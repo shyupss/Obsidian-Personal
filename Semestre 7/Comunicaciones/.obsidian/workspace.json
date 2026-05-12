@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transmisión de datos/Capacidad del canal.md",
+                "file": "Medios de transmición/Transmisión en la trayectoria visual.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capacidad del canal"
+              "title": "Transmisión en la trayectoria visual"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.51103591918945
+    "width": 200
   },
   "right": {
     "id": "aba6dcd4b52eca8f",
@@ -183,13 +183,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "c1bc812e7c100f41",
+  "active": "3fb864713c730043",
   "lastOpenFiles": [
-    "Medios de transmición",
-    "Transmisión de datos/Dificultades en la transmisión.md",
+    "Medios de transmición/Propagación inalambrica.md",
+    "Medios de transmición/Transmisión inalambrica.md",
+    "Medios de transmición/Medios de Transmisión Guiados.md",
+    "Medios de transmición/Introducción.md",
+    "Medios de transmición/Transmisión en la trayectoria visual.md",
     "Transmisión de datos/Capacidad del canal.md",
-    "Transmisión de datos/Conceptos y terminología.md",
+    "Transmisión de datos/Dificultades en la transmisión.md",
     "Transmisión de datos/Transmición de datos analógicos y digitales.md",
+    "Transmisión de datos/Conceptos y terminología.md",
+    "Medios de transmición/Medios asdasdde transmisión guiadoss.md",
+    "Medios de transmición",
     "Transmisión de datos/Transmisión de datos analógicos y digitales.md",
     "Transmisión de datos/Conceptos y terminología/Sin títuloSin títuloSin títuloSin título.md",
     "Transmisión de datos/Conceptos y terminología",
@@ -221,10 +227,6 @@
     "0assets",
     "Unidad 1/labs",
     "Sin título 4.md",
-    "Sin título 3.md",
-    "Sin título 2.md",
-    "Sin título 1.md",
-    "Bienvenido.md",
     "Comunicaciones de datos y redes"
   ]
 }
